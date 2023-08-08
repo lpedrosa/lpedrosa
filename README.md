@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**lpedrosa/lpedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Luis Pedrosa, a software engineer that occasionally takes on
+other hats.
 
-Here are some ideas to get you started:
+Sometimes I help with *Product* and *Sales*, but I love to code:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like learning more about the product domain I am working on, and how users perceive it.
+- I like mentoring and helping other people grow. Teams are *most of the times* more important
+  than individual effort.
+
+I am mostly comfortable with Java, but I have done Typescript, .NET 6, Python and others.
+
+I’ve been working remotely for [tru.ID](https://tru.id/) for the past 3 years, to build a better way
+to trust your digital identity.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/lpedrosa88/)
