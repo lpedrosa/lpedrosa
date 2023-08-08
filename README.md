@@ -13,5 +13,3 @@ I am mostly comfortable with Java, but I have done Typescript, .NET 6, Python an
 
 I’ve been working remotely for [tru.ID](https://tru.id/) for the past 3 years, to build a better way
 to trust your digital identity.
-
-You can reach me on [LinkedIn](https://www.linkedin.com/in/lpedrosa88/)
